@@ -29,7 +29,18 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,ruby,mysql,cpp,rust=30" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,bots,discord=12" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=" />
+  </a>
+</p>
+Estoy aprendiendo:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,angular,bootstrap,discord," />
   </a>
 </p>
 <br>
