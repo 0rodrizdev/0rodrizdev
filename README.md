@@ -45,7 +45,7 @@
 Estoy aprendiendo:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,angular,bootstrap,discord," />
+    <img src="https://skillicons.dev/icons?i=cpp,cloudflare.jquery,kotlin,kali,react" />
   </a>
 </p>
 <br>
