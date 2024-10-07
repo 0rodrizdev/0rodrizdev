@@ -29,12 +29,17 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,bots,discord,discordjs=12" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,bots,ruby=12" />
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
+    <img src="https://skillicons.dev/icons?i=discordjs,angular,bootstrap,rust,django,go" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,mysql,nodejs,sqlite,vscode" />
   </a>
 </p>
 Estoy aprendiendo:
