@@ -29,7 +29,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,bots,discord=12" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,bots,discord,discordjs=12" />
   </a>
 </p>
 <p align="left">
